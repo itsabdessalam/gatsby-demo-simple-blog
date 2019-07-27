@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [`gatsby-theme-simple-blog`],
   siteMetadata: {
-    url: "https://abdessalam.dev",
+    url: "https://gatsby-demo-simple-blog.netlify.com",
     title: "Simple blog demo",
     author: "Abdessalam",
     description: "Simple blog theme starter",
